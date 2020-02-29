@@ -21,7 +21,7 @@
       <dependency>
           <groupId>org.mybatis</groupId>
           <artifactId>mybatis</artifactId>
-          <version>3.4.6</version>
+          <version>3.5.3</version>
       </dependency>
   
       <!--  https://mvnrepository.com/artifact/junit/junit  -->
